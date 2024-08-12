@@ -1,1 +1,24 @@
+INITIAL CONCEPTS
 
+What I want to do is have a total Halo upgrade for barotrauma; inspired by the existing 40K mod. Below
+I will outline may be done:
+
+--Ideally, the whole UNSC armory should be covered, including armor variants for specific roles(ie; ODST)
+    -.Inspiration can be taken from Arma3 OpTRE.
+    -.This includes all variants of Spartan armor, including Mk4,5,6,7 if possible.
+        ..Some armors will be better suited for specific tasks (such as Mk6 EVA, being used to leave the ship).
+        ..Parts can be "assembled" (TBD what this will actually look like)
+
+--The addition of Covenant enemy types and their respective units (Elite SF squads etc.)
+    -.Plasma weapons: Inflict burn damage (or brand new affliction) to player and damage energy shields (see line 22)
+
+--Total Spartan conversion surgeries that can be performed in-game (see https://halo.fandom.com/wiki/SPARTAN-II_augmentation_procedures and https://halo.fandom.com/wiki/SPARTAN-IV_augmentation_procedures)
+    -.Afflictions (or other method)/permanent buffs to characters after surgery.
+    -.Larger bodies for any character turned into a Spartan.
+    -.Only Spartans can wear certain armor to incentivize surgery.
+
+--New roles (Marine, Commander, Spartan) as well as talents for existing ones.
+
+--Introduction of energy shielding as part of wearable armor, that can be recharged/has a cooldown like in the Halo games.
+
+These are all just ideas for now.
